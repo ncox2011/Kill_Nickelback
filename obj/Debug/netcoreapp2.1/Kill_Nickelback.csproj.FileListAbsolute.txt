@@ -1,0 +1,11 @@
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\bin\Debug\netcoreapp2.1\Kill_Nickelback.deps.json
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\bin\Debug\netcoreapp2.1\Kill_Nickelback.runtimeconfig.json
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\bin\Debug\netcoreapp2.1\Kill_Nickelback.runtimeconfig.dev.json
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\bin\Debug\netcoreapp2.1\Kill_Nickelback.dll
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\bin\Debug\netcoreapp2.1\Kill_Nickelback.pdb
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\obj\Debug\netcoreapp2.1\Kill_Nickelback.csprojAssemblyReference.cache
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\obj\Debug\netcoreapp2.1\Kill_Nickelback.csproj.CoreCompileInputs.cache
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\obj\Debug\netcoreapp2.1\Kill_Nickelback.AssemblyInfoInputs.cache
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\obj\Debug\netcoreapp2.1\Kill_Nickelback.AssemblyInfo.cs
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\obj\Debug\netcoreapp2.1\Kill_Nickelback.dll
+C:\Users\natas\workspace\csharp\exercises\Kill_Nickelback\obj\Debug\netcoreapp2.1\Kill_Nickelback.pdb
